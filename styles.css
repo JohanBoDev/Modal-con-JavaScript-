@@ -31,10 +31,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-height: 400px;
+    max-height: 380px;
     height: auto;
     width: 80%;
-    max-width: 50%;
+    max-width: 52%;
     margin:  auto;
     border-radius: 10px;
     padding: 1rem;
