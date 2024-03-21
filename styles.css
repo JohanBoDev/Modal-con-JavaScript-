@@ -43,7 +43,8 @@ body {
 .info {
   color: var(--dark-slate-grey);
   padding: 0 2rem;
-  display: grid;
+
+  flex: 1;
 }
 .title {
   font-size: 1.7rem;
@@ -63,14 +64,11 @@ body {
   gap: 10px;
 }
 
-.img-seccion {
-  width: 300px;
-  max-width: 50%;
-}
 
-.img-seccion img {
-  height: 320px;
-  width: 100%;
+
+.img-sec {
+
+  width: 42%;
 }
 
 b {
