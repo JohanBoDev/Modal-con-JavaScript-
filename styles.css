@@ -230,3 +230,8 @@ p {
   }
     
 }
+
+.fnt-size{
+  font-size: 70%;
+  margin-bottom: 0.4rem;
+}
